@@ -1,0 +1,19 @@
+git i{
+  "name": "inmuebles-web",
+  "version": "1.0.0",
+  "description": "Proyecto de inmuebles con webpack y babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisellmazo/inmuebles-web.git"
+  },
+  "author": "Gisell Mazo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gisellmazo/inmuebles-web/issues"
+  },
+  "homepage": "https://github.com/gisellmazo/inmuebles-web#readme"
+}
