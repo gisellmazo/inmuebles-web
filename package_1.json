@@ -1,4 +1,4 @@
-git i{
+git igit s{
   "name": "inmuebles-web",
   "version": "1.0.0",
   "description": "Proyecto de inmuebles con webpack y babel.",
